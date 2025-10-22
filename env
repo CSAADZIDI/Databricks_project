@@ -1,4 +1,4 @@
 SQL_USER=serveradmin@taxitripsdb-server
-SQL_PASSWORD=Awzxecrv123
+SQL_PASSWORD=<password>
 SQL_DRIVER=com.microsoft.sqlserver.jdbc.SQLServerDriver
 SQL_JDBC_URL=jdbc:sqlserver://taxitripsdb-server.database.windows.net:1433;database=taxitripsdb;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
